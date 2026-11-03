@@ -1,0 +1,11 @@
+# Rangos probados en Colab v8; instalar preferentemente en entorno aislado
+sentence-transformers>=3,<6
+transformers>=4.45,<5
+huggingface-hub>=0.25,<1
+accelerate>=0.33
+scikit-learn>=1.4
+pandas
+numpy
+matplotlib
+torch
+pyarrow
