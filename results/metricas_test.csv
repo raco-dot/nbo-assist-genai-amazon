@@ -1,4 +1,0 @@
-modelo,accuracy_proxy,precision_proxy,recall_proxy,f1_proxy,hit_rate_at_1_proxy,latencia_ms_por_par,memoria_gpu_gb
-MiniLM-L6,0.825,0.678571,0.2375,0.351852,0.4625,1.452744,0.206506
-MPNet-base,0.81,0.541667,0.325,0.40625,0.4,5.907038,0.73918
-MultiQA-MiniLM,0.825,0.727273,0.2,0.313725,0.4125,1.420018,0.206506
