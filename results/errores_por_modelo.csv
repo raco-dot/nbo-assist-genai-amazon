@@ -1,0 +1,4 @@
+modelo,aciertos,errores
+MPNet-base,32,48
+MiniLM-L6,37,43
+MultiQA-MiniLM,33,47

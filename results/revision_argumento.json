@@ -1,0 +1,22 @@
+{
+  "asin": "B0794KTDSL",
+  "producto": "JUSU Body Smoky Cedar Deodorant - 100% Natural - 3 oz",
+  "modelo_nbo": "MultiQA-MiniLM",
+  "score_afinidad": 0.4042944610118866,
+  "estado_generacion": "BLOQUEADO: salida generativa sustituida por plantilla neutral",
+  "alertas_generacion": [
+    "Estructura incompleta o fuera de orden",
+    "Se requieren exactamente cuatro líneas",
+    "No declara insuficiencia de evidencia",
+    "No exige revisión humana"
+  ],
+  "revision_plantilla": {
+    "estructura_valida": true,
+    "alertas": [],
+    "aprobacion_humana": "PENDIENTE",
+    "apto_para_uso_comercial": false
+  },
+  "aprobacion_humana": "PENDIENTE",
+  "apto_para_uso_comercial": false,
+  "limitaciones": "Las reglas automáticas no certifican veracidad, elegibilidad ni cumplimiento."
+}
