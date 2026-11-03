@@ -1,0 +1,1 @@
+Resultados transcritos de las salidas guardadas del notebook v8 ejecutado. No se adjuntaron los CSV de predicciones ni el ZIP generado por Colab. Para obtenerlos, descargue evidencias_NBO_Amazon_v8.zip desde la sesion de Colab. No interpretar resultados proxy como conversiones reales.
