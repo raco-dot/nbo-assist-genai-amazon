@@ -1,0 +1,4 @@
+split,modelo,model_id,accuracy_proxy,precision_proxy,recall_proxy,f1_proxy,hit_rate_at_1_proxy,latencia_ms_por_par,tiempo_carga_s,memoria_gpu_gb,umbral,pares,grupos
+test,MiniLM-L6,sentence-transformers/all-MiniLM-L6-v2,0.825,0.6785714285714286,0.2375,0.35185185185185186,0.4625,1.4527439750000326,2.031930587999909,0.206506496,0.5,400,80
+test,MPNet-base,sentence-transformers/all-mpnet-base-v2,0.81,0.5416666666666666,0.325,0.40625,0.4,5.907038242499993,2.048750767999991,0.739180032,0.5,400,80
+test,MultiQA-MiniLM,sentence-transformers/multi-qa-MiniLM-L6-cos-v1,0.825,0.7272727272727273,0.2,0.3137254901960784,0.4125,1.4200182275001794,1.9112891220000847,0.206506496,0.5,400,80
