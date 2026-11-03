@@ -1,0 +1,26 @@
+{
+  "python": "3.13.16",
+  "device": "cuda",
+  "seed": 42,
+  "versions": {
+    "sentence-transformers": "5.7.0",
+    "transformers": "4.57.6",
+    "huggingface-hub": "0.36.2",
+    "scikit-learn": "1.6.1",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "torch": "2.11.0+cu130"
+  },
+  "dataset": "McAuley-Lab/Amazon-Reviews-2023",
+  "benchmark": "0core/last_out_w_his",
+  "category": "All_Beauty",
+  "valid_groups": 80,
+  "test_groups": 80,
+  "candidates_per_group": 5,
+  "threshold": 0.5,
+  "limitations": [
+    "No observados no son rechazos",
+    "Valoración positiva no equivale a conversión",
+    "Prototipo académico sin datos corporativos"
+  ]
+}
