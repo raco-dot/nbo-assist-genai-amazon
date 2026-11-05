@@ -1,3 +1,6 @@
+El enlace del repositorio de github es 
+https://github.com/raco-dot/nbo-assist-genai-amazon?utm_source=chatgpt.com
+
 NBO Assist GenAI — Amazon Reviews 2023
 Actividad 4 · Gestión de Proyectos de IA · Tecmilenio. Prototipo académico de Next Best Offer (NBO) mediante afinidad semántica y generación de argumento comercial controlado. No es un sistema de recomendación bancaria ni una solución lista para producción.
 Alcance: VALE A PENA MENCIONAR QUE AL BUSCAR DATOS PARA REALIZAR LA PRUEBA SE ENCONTRÓ EN HUGGING FACE INFORMACIÓN DE BANCO REFERENTE A OPERACIONES BANCARIAS COMO CONSULTASY DEPÓSITOS, PERO NO DE CONTRATACIÓN DE PRODUCTOS. POR TRO LADO SÍ SE ENCONTRO UN ARCHIVO DE DATOS DE VENTAS RELACIONADO CON NEGOCIOS RETAIL, ASI QUE TOME LA DECISIÓN DE MANTENER MI INTENCIÓN DE TRABAJAR EN EL NBO Y ARGUMENTO DE RECOMENDACIÓN, CAMBIANDO EL ENTORNO BANCARIO POR UN ENTORNO DE RETAIL. PREFERÍ ESTE GIRO A TRABAJAR CON DATOS INVENTADOS SINTÉTICAMENTE (ATTE. ROGELIO). 
